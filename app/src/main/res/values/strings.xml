@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">FindingCouples</string>
+    <string name="landscape_message">This is Landscape mode fragment</string>
+    <string name="portrait_message">This is Portrait mode fragment></string>
+    <string name="counter">Counter</string>
+    <string name="winner">WINNER!!!</string>
+    <string name="reset">RESET</string>
+
+    <string-array name="grid_column_values">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
 </resources>
