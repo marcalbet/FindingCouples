@@ -5,4 +5,6 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorWinner">#5FBA7D</color>
     <color name="colorGrey">#666666</color>
+    <color name="monsoon">#777777</color>
+    <color name="colorWhite">#FFFFFF</color>
 </resources>
